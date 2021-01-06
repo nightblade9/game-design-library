@@ -18,7 +18,7 @@ a {
 
 h1 {
     font-family:  'Calibri', 'serif';
-    margin: 4px;
+    margin: 4px; /* reset */
 }
 
 .snippet {
@@ -45,4 +45,17 @@ h1 {
     font-family: 'Consolas', 'monaco', 'monospace';
     padding: 0px;
     margin: 0px;
+}
+
+#intro {
+    font-family: 'Calibri', 'serif';
+    padding: 8px;
+    margin: 3px;
+    background-color: white;
+    border: 3px solid #048;
+    font-size: larger;
+}
+
+#intro p {
+    margin: 4px;
 }
