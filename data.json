@@ -2,20 +2,14 @@
     {
         "title": "12 ways to improve turn-based RPG combat systems",
         "url": "https://sinisterdesign.net/12-ways-to-improve-turn-based-rpg-combat-systems/",
-        "tags": [ "JRPG", "combat", "battle" ],
+        "tags": [ "JRPG", "battle" ],
         "blurb": "A list of twelve ways to change-up your RPG combat system to set it apart. Focuses on emergent complexity, clarity, determinism, and tactics."
     },
     {
         "title": "How to make a modern game that feels like a classic JRPG",
         "url": "https://gamecrate.com/how-make-modern-game-feels-classic-jrpg/14295",
-        "tags": [ "JRPG", "16-bit", "battle" ],
+        "tags": [ "JRPG", "battle" ],
         "blurb": "A look at what made classic 16-bit JRPGs so great, and how to implement those in your own RPG. Stories, side-quests, combat"
-    },
-    {
-        "title": "6 Simple Things You Can Do to Improve Your Screenshots",
-        "url": "https://gamedevelopment.tutsplus.com/tutorials/6-simple-things-you-can-do-to-improve-your-screenshots--gamedev-14272",
-        "tags": [ "marketing", "screenshots" ],
-        "blurb": "How to take better screenshots for your game. Camera, composition, UI, aspect ratio, animation"
     },
     {
         "title": "Why are character-classes used in game design?",
