@@ -17,14 +17,13 @@ footer a {
 	text-decoration: underline;
 }
 
-#inline-search {
-    margin: auto; /* fixes vertical alignment */
-    padding: 0px 10px 0px 30px;
-}
-
 .btn-primary {
     background-color: #2e735c;
     border-color: #2e735c;
+}
+
+#search-form {
+    text-align: center;
 }
 
 /********* specifically used by Tropical *********/
