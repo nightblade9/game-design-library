@@ -17,6 +17,11 @@ footer a {
 	text-decoration: underline;
 }
 
+#inline-search {
+    margin: auto; /* fixes vertical alignment */
+    padding: 0px 10px;
+}
+
 /********* specifically used by Tropical *********/
 
 .snippet {
