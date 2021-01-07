@@ -4,10 +4,13 @@
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-GPZEF5Y9S4"></script>
 	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-		gtag('config', 'G-GPZEF5Y9S4');
+		if (window.location.hostname !== "localhost") // don't display if developing locally
+		{
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-GPZEF5Y9S4');
+		}
 	</script>
 	
 	<meta charset="utf-8">
