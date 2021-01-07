@@ -1,0 +1,10 @@
+.lead a {
+	color: white;
+	text-decoration: underline;
+}
+
+/* everything should look like "lead" class */
+section p {
+	font-size: 1.25rem;
+	font-weight: 300;
+}
