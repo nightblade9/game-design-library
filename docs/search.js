@@ -35,20 +35,21 @@ onSearch = (searchQuery) => {
     // Too hard/complicated to write as lambdas/filters
     var matchingItems = [];
 
-    // Search for matching tags
+    // Search for matching tags, titles, and blurbs
     for (var i = 0; i < allData.length; i++)
     {
         var item = allData[i];
         var tags = item["tags"];
         var isMatch = false;
         
-        // Do any words match a tag?
+        // Do any words match any tag words?
+        // e.g. searching for "core" matches the tags "core" and "core loop" and "core-loop"
+        // e.g. searching for "core loop" matches the tags "core" and "core loop" and "loop stuff"
         for (var k = 0; k < searchWords.length; k++)
         {
-            var searchWord = searchWords[k];
             for (var j = 0; j < tags.length; j++)
             {
-                if (tags[j].toLowerCase() == searchWord.toLowerCase())
+                if (tags[j].toLowerCase().indexOf(searchWords[k].toLowerCase()) > -1)
                 {
                     isMatch = true;
                     matchingItems.push(item);
@@ -97,6 +98,9 @@ onSearch = (searchQuery) => {
             }
         }
     }
+
+    // TODO: more sophisticated relevance matching. For now, assume newer articles are better.
+    matchingItems.reverse();
     
     var finalHtml = "";
     for (var i = 0; i < matchingItems.length; i++)
