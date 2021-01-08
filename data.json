@@ -16,5 +16,23 @@
         "url": "https://gamedev.stackexchange.com/questions/83251/why-are-character-classes-used-in-game-design",
         "tags": [ "RPG", "JRPG", "roguelike", "MOBA", "balance" ],
         "blurb": "Benefits of adding classes to your game and how they impact the overall game design and balancing."
+    },
+    {
+        "title": "How to Start Designing Games",
+        "url": "https://medium.com/super-jump/how-to-start-designing-games-f4cb5440ebf9",
+        "tags": [ "theory", "mechanics", "prototyping", "aesthetics", "core loop", "goals" ],
+        "blurb": "A thorough introduction to the fundamentals of game design, and how to implement them in your game."
+    },
+    {
+        "title": "How To Perfect Your Game’s Core Loop",
+        "url": "https://gameanalytics.com/blog/how-to-perfect-your-games-core-loop/",
+        "tags": [ "core loop", "goals" ,"polish" ],
+        "blurb": "How to design the core game loop and surrounding game loops to focus on the fun in your game"
+    },
+    {
+        "title": "The 13 Basic Principles of Gameplay Design",
+        "url": "https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php",
+        "tags": [ "theory" ],
+        "blurb": "13 fundamental principles of game design, with system, level, and UI design examples."
     }
 ]
