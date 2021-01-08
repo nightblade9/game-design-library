@@ -1,0 +1,49 @@
+/********** theme fixes *************/
+
+.bg-primary {
+	background-color: #2e9975 !important;
+}
+
+a {
+	color: #2e7373
+}
+
+footer a {
+	color: #2db386
+}
+
+.lead a {
+	color: white;
+	text-decoration: underline;
+}
+
+.btn-primary {
+    background-color: #2e735c;
+    border-color: #2e735c;
+}
+
+#search-form {
+    text-align: center;
+}
+
+/********* specifically used by Tropical *********/
+
+.snippet {
+    background-color: white;
+    border: 2px solid #668;
+    padding: 8px;
+    margin: 4px;
+}
+
+.tag {
+    font-family: 'Consolas', 'monaco', 'monospace';
+    padding: 4px;
+    margin: 4px;
+    background: #2e735c;
+    color: white;
+}
+
+/* tag links should be white, not the link colour (green) */
+.tag a {
+    color: white;
+}
