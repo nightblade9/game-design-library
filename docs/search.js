@@ -103,6 +103,9 @@ onSearch = (searchQuery) => {
     matchingItems.reverse();
     
     var finalHtml = "";
+    var config = JSON.parse(window.config)
+    var rootUrl = "siteRootUrl" in config ? config["siteRootUrl"] : ""
+
     for (var i = 0; i < matchingItems.length; i++)
     {
         var item = matchingItems[i];
@@ -111,7 +114,7 @@ onSearch = (searchQuery) => {
         var tagsHtml = "";
         for (var j = 0; j < tags.length; j++)
         {
-            tagsHtml += "<span class='tag'><a href='/tags/" + tags[j] + ".html" + "'>" + tags[j] + "</a></span>"
+            tagsHtml += "<span class='tag'><a href='" + rootUrl + "/tags/" + tags[j] + ".html" + "'>" + tags[j] + "</a></span>"
         }
         
         finalHtml += window.snippet.replace("{title}", '<a href="' + item["url"] + '">' + item["title"] + "</a>")
