@@ -5,7 +5,8 @@
 }
 
 a {
-	color: #2e7373
+    color: #2e7373;
+    overflow-wrap: break-word; /* break links properly on small screens */
 }
 
 footer a {
