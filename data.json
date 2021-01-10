@@ -27,12 +27,18 @@
         "title": "How To Perfect Your Game’s Core Loop",
         "url": "https://gameanalytics.com/blog/how-to-perfect-your-games-core-loop/",
         "tags": [ "core loop", "goals" ,"polish" ],
-        "blurb": "How to design the core game loop and surrounding game loops to focus on the fun in your game"
+        "blurb": "How to design the core game loop and surrounding game loops to focus on the fun in your game."
     },
     {
         "title": "The 13 Basic Principles of Gameplay Design",
         "url": "https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php",
         "tags": [ "theory" ],
         "blurb": "13 fundamental principles of game design, with system, level, and UI design examples."
+    },
+    {
+        "title": "How to Make an RPG: Levels",
+        "url": "http://howtomakeanrpg.com/a/how-to-make-an-rpg-levels.html",
+        "tags": [ "JRPG", "RPG" ],
+        "blurb": "Why RPGs include levels, formulas from existing games, and how to write the right formulas for your game."
     }
 ]
