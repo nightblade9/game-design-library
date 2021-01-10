@@ -117,10 +117,16 @@ onSearch = (searchQuery) => {
             tagsHtml += "<span class='tag'><a href='" + rootUrl + "/tags/" + tags[j] + ".html" + "'>" + tags[j] + "</a></span>"
         }
         
-        finalHtml += window.snippet.replace("{title}", '<a href="' + item["url"] + '">' + item["title"] + "</a>")
+        titleHtml = '<a href="' + item["url"] + '">' + item["title"] + "</a>"
+        blurb = item["blurb"] || ""
+        if ("icon" in item) {
+            titleHtml += "<img class='icon' src='" + rootUrl + "/images/" + item["icon"] + ".png' />"
+        }
+        
+        finalHtml += window.snippet.replace("{title}", titleHtml)
             .replace("{url}", '<a href="' + item["url"] + '">' + item["url"] + "</a>")
             .replace("{tags}", tagsHtml)
-            .replace("{blurb}", item["blurb"]);
+            .replace("{blurb}", blurb);
     }
     
     var header = "<h2>" + matchingItems.length + " items matching " + searchQuery + "</h2>";

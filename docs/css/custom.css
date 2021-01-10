@@ -53,3 +53,7 @@ footer a {
 .tag a {
     color: white; /* tag links should be white, not the link colour (green) */
 }
+
+.icon {
+    margin-left: 8px;
+}

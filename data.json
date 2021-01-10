@@ -38,7 +38,35 @@
     {
         "title": "How to Make an RPG: Levels",
         "url": "http://howtomakeanrpg.com/a/how-to-make-an-rpg-levels.html",
-        "tags": [ "JRPG", "RPG" ],
+        "tags": [ "JRPG", "RPG", "project management" ],
         "blurb": "Why RPGs include levels, formulas from existing games, and how to write the right formulas for your game."
+    },
+    {
+        "title": "Getting Started in Automated Game Design",
+        "url": "https://www.youtube.com/watch?v=dZv-vRrnHDA",
+        "tags": [ "procedural generation", "automated game deisgn" ],
+        "blurb": "A detailed introduction to automated game design: writing code that designs game mechanics for you.",
+        "icon": "video"
+    },
+    {
+        "title": "Are Lives Outdated Game Design?",
+        "url": "https://www.youtube.com/watch?v=c2CLO8CcBjg",
+        "tags": ["lives", "checkpoints", "side-scroller", "platformer"],
+        "blurb": "Older games use lives or checkpoints, which cause frustration when replaying, but it's useful for procedural games. What other methods can replace lives?",
+        "icon": "video"
+    },
+    {
+        "title": "7 Game Design Mistakes to Avoid",
+        "url": "https://www.youtube.com/watch?v=5x4Q_SOLN28&t=300s",
+        "tags": ["project management", "polish", "tutorials" ],
+        "blurb": "Seven common game design mistakes, including: thinking too big, ignoring onboarding tutorials, being too committed to an idea, igoring polish, and including random things.",
+        "icon": "video"
+    },
+    {
+        "title": "Downwell's Dual Purpose Design | Game Maker's Toolkit",
+        "url": "https://www.youtube.com/watch?v=i5C1Uj7jJCg",
+        "tags": [ "theory", "analysis" ],
+        "blurb": "All game elements in Downwell serve two or more purposes, which creates emergent gameplay and difficult choices for the player.",
+        "icon": "video"
     }
 ]
