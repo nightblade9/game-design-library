@@ -27,6 +27,12 @@ footer a {
     text-align: center;
 }
 
+.container h1 {
+    /* makes sure hamburger menu doesn't cover title on small screens.
+    Also ensures welcome message appears. */
+    padding-top: 60px; 
+}
+
 /********* specifically used by Tropical *********/
 
 .snippet {
@@ -44,7 +50,6 @@ footer a {
     color: white;
 }
 
-/* tag links should be white, not the link colour (green) */
 .tag a {
-    color: white;
+    color: white; /* tag links should be white, not the link colour (green) */
 }
