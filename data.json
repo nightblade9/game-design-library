@@ -65,8 +65,20 @@
     {
         "title": "Downwell's Dual Purpose Design | Game Maker's Toolkit",
         "url": "https://www.youtube.com/watch?v=i5C1Uj7jJCg",
-        "tags": [ "theory", "analysis" ],
+        "tags": [ "theory", "game analysis" ],
         "blurb": "All game elements in Downwell serve two or more purposes, which creates emergent gameplay and difficult choices for the player.",
         "icon": "video"
+    },
+    {
+        "title": "What is 'Souls-Like'?",
+        "url": "https://critpoints.net/2020/03/11/what-is-souls-like/",
+        "tags": [ "souls-like" ],
+        "blurb": "A list of several key characteristics that make a game 'souls-like' as well as others that are often used but not key."
+    },
+    {
+        "title": "What makes a Souls-like (and why the definition is important) – Reader’s Feature",
+        "url": "https://metro.co.uk/2020/08/29/what-makes-souls-like-why-definition-important-dark-souls-13193303/",
+        "tags": [ "souls-like", "game analysis" ],
+        "blurb": "An opinion on six of the key defining characteristics of souls-like games, and how a few souls-like games implement them."
     }
 ]
