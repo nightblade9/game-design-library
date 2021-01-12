@@ -98,5 +98,17 @@
         "url": "https://metro.co.uk/2020/08/29/what-makes-souls-like-why-definition-important-dark-souls-13193303/",
         "tags": [ "souls-like", "game analysis" ],
         "blurb": "An opinion on six of the key defining characteristics of souls-like games, and how a few souls-like games implement them."
+    },
+    {
+        "title": "Mitigating complexity and toxicity: A look at League of Legends",
+        "url": "https://www.reddit.com/r/gamedesign/comments/kpwtkn/mitigating_complexity_and_toxicity_a_look_at/",
+        "tags": [ "MOBA", "game analysis", "community" ],
+        "blurb": "A look at Leage of Legends and how to reduce community toxicity in it, and in MOBAs in general, by changing the game design"
+    },
+    {
+        "title": "Scroll Back: The Theory and Practice of Cameras in Side-Scrollers",
+        "url": "https://www.gamasutra.com/blogs/ItayKeren/20150511/243083/Scroll_Back_The_Theory_and_Practice_of_Cameras_in_SideScrollers.php",
+        "tags": [ "camera", "visuals" ],
+        "blurb": "A thorough reference of several different styles of cameras in 2D games, and how they work."
     }
 ]
