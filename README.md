@@ -1,6 +1,6 @@
 # Game Design Library
 
-GDL is a human-curated list of articles on various game design topics. Find game-design tips/advice on specific genres/aspects. You can use the search, or browse tag-specific pages to find the articles you want.
+GDL is a human-curated list of articles on various game design topics. Find game-design tips/advice on specific genres/aspects. You can use the search, or browse tag-specific pages to find the articles you want. Built in [Tropical](github.com/nightblade9/tropical).
 
 # Submitting an Article
 
