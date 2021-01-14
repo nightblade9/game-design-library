@@ -122,5 +122,23 @@
         "url": "https://www.gamersnexus.net/gg/776-game-npc-design-npc-relatability",
         "tags": ["RPG", "JRPG", "character design", "NPCs"],
         "blurb": "A discussion on how adding a bit of detail to your NPCs such as a backstory or personality quirks can make them appear more life-like and interesting instead of generic place-holders."
+    },
+    {
+        "title": "Numbers Getting Bigger: The Design and Math of Incremental Games",
+        "url": "https://gamedevelopment.tutsplus.com/articles/numbers-getting-bigger-the-design-and-math-of-incremental-games--cms-24023",
+        "tags": ["idle", "incremental"],
+        "blurb": "An in-depth look at the design of idle and incremental games, including: discovery, multiple sources, exponential cost, offline play, plater optimization, and prestige."
+    },
+    {
+        "title": "The Roguelike Lessons that Horror Design Needs to Learn",
+        "url": "https://game-wisdom.com/critical/roguelike-lessons-horror",
+        "tags": ["roguelike", "horror"],
+        "blurb": "Some lessons horror games can learn from roguelikes, about pacing, random, repetition, and fighting; and a look at micro-horror."
+    },
+    {
+        "title": "A Good Puzzle Game Is Hard To Build",
+        "url": "https://www.rockpapershotgun.com/2015/01/22/how-to-make-a-puzzle-game/",
+        "tags": ["puzzle"],
+        "blurb": "Six tips on how to build a good puzzle game, including: helping the player along, learning over solving, exploring level designs, minimalism, and the role of a central game mechanic."
     }
 ]
