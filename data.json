@@ -65,7 +65,7 @@
     {
         "title": "Downwell's Dual Purpose Design",
         "url": "https://www.youtube.com/watch?v=i5C1Uj7jJCg",
-        "tags": [ "theory", "game analysis" ],
+        "tags": [ "theory", "game analysis", "Downwell" ],
         "blurb": "All game elements in Downwell serve two or more purposes, which creates emergent gameplay and difficult choices for the player.",
         "icon": "video"
     },
@@ -84,7 +84,7 @@
     {
         "title": "The Brilliance of Bastion's Flexible Builds",
         "url": "https://www.deengames.com/blog/2018/the-brilliance-of-bastions-flexible-builds.html",
-        "tags": [ "balance", "game analysis" ],
+        "tags": [ "balance", "game analysis", "Bastion" ],
         "blurb": "Lessons learned from Bastion, which is designed to allow player flexibility and experimentation with different builds."
     },
     {
@@ -96,7 +96,7 @@
     {
         "title": "What makes a Souls-like (and why the definition is important)",
         "url": "https://metro.co.uk/2020/08/29/what-makes-souls-like-why-definition-important-dark-souls-13193303/",
-        "tags": [ "souls-like", "game analysis" ],
+        "tags": [ "souls-like", "game analysis", "Demon's Souls", "Nioh" ],
         "blurb": "An opinion on six of the key defining characteristics of souls-like games, and how a few souls-like games implement them."
     },
     {
@@ -140,5 +140,18 @@
         "url": "https://www.rockpapershotgun.com/2015/01/22/how-to-make-a-puzzle-game/",
         "tags": ["puzzle"],
         "blurb": "Six tips on how to build a good puzzle game, including: helping the player along, learning over solving, exploring level designs, minimalism, and the role of a central game mechanic."
+    },
+    {
+        "title": "Game Design Perspective: Stardew Valley",
+        "url": "https://www.pixelatedplaygrounds.com/sidequests/game-design-perspective-stardew-valley",
+        "tags": ["game analysis", "Stardew Valley"],
+        "blurb": "A look at what makes Stardew Valley such a well-designed game: variety (small and large), activities overlap, and delayed rewards."
+    },
+    {
+        "title": "The Design of Mario Odyssey's Cascade Kingdom",
+        "url": "https://www.youtube.com/watch?v=VxELCfmpr7E",
+        "tags": [ "game analysis", "Super Mario Odyssey" ],
+        "blurb": "Super Mario Odyssey is fun from the get-go, by following three principles: multiple options, clear objectives, and increasingly-difficult uses of mechanics.",
+        "icon": "video"
     }
 ]
