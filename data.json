@@ -153,5 +153,11 @@
         "tags": [ "game analysis", "Super Mario Odyssey" ],
         "blurb": "Super Mario Odyssey is fun from the get-go, by following three principles: multiple options, clear objectives, and increasingly-difficult uses of mechanics.",
         "icon": "video"
+    },
+    {
+        "title": "Top 7 Idle Game Mechanics",
+        "url": "https://mobilefreetoplay.com/top-7-idle-game-mechanics/",
+        "tags": ["idle", "incremental", "game analysis"],
+        "blurb": "A brief look at seven sub-genres of idle games, and some of the game design pros and cons of each sub-genre. Linear clickers, arcade, merge games, management games, simulations, RPGs, and story-driven idle games."
     }
 ]
