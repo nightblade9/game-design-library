@@ -159,5 +159,17 @@
         "url": "https://mobilefreetoplay.com/top-7-idle-game-mechanics/",
         "tags": ["idle", "incremental", "game analysis"],
         "blurb": "A brief look at seven sub-genres of idle games, and some of the game design pros and cons of each sub-genre. Linear clickers, arcade, merge games, management games, simulations, RPGs, and story-driven idle games."
+    },
+    {
+        "title": "How do I come up with the game mechanics for a puzzle game?",
+        "url": "https://gamedev.stackexchange.com/questions/47774/how-do-i-come-up-with-the-game-mechanics-for-a-puzzle-game",
+        "tags": ["mechanics", "ideas", "puzzle"],
+        "blurb": "How to come up with ame mechanics ideas? Play games, start small, copy others. Experiment, iterate until it's great."
+    },
+    {
+        "title": "Balancing Turn-Based RPGs: The Big Picture",
+        "url": "https://gamedevelopment.tutsplus.com/articles/balancing-turn-based-rpgs-the-big-picture--gamedev-8286",
+        "tags": ["RPG", "JRPG", "balance", "project management"],
+        "blurb": "How to balance a JRPG from a high-level: knowing your audience, adjusting difficulty vs. intended game time, progression, and balance."
     }
 ]
