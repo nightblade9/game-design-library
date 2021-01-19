@@ -44,7 +44,7 @@
     {
         "title": "Getting Started in Automated Game Design",
         "url": "https://www.youtube.com/watch?v=dZv-vRrnHDA",
-        "tags": [ "procedural generation", "automated game deisgn" ],
+        "tags": [ "procedural generation", "automated game design" ],
         "blurb": "A detailed introduction to automated game design: writing code that designs game mechanics for you.",
         "icon": "video"
     },
@@ -171,5 +171,12 @@
         "url": "https://gamedevelopment.tutsplus.com/articles/balancing-turn-based-rpgs-the-big-picture--gamedev-8286",
         "tags": ["RPG", "JRPG", "balance", "project management"],
         "blurb": "How to balance a JRPG from a high-level: knowing your audience, adjusting difficulty vs. intended game time, progression, and balance."
+    },
+    {
+        "title": "The Psychological Trick That Can Make Rewards Backfire",
+        "url": "https://www.youtube.com/watch?v=1ypOUn6rThM",
+        "tags": ["behaviour", "player psychology", "theory"],
+        "blurb": "Achievements and designer-made quests are extrinsic rewards, which can backfire and demotivate exploration and experimentation. Leaderboards and personal bests work for instric rewards.",
+        "icon": "video"
     }
 ]
