@@ -178,5 +178,11 @@
         "tags": ["behaviour", "player psychology", "theory"],
         "blurb": "Achievements and designer-made quests are extrinsic rewards, which can backfire and demotivate exploration and experimentation. Leaderboards and personal bests work for instric rewards.",
         "icon": "video"
+    },
+    {
+        "title": "What is a Broughlike?",
+        "url": "https://itch.io/jam/broughlike",
+        "tags": ["broughlike"],
+        "blurb": "Description of common game design elements in broughlikes, which are highly-compressed roguelikes on small boards."
     }
 ]
