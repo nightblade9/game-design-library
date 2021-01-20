@@ -110,11 +110,13 @@ onSearch = (searchQuery) => {
     {
         var item = matchingItems[i];
         var tags = item["tags"];
-
         var tagsHtml = "";
         for (var j = 0; j < tags.length; j++)
         {
-            tagsHtml += "<span class='tag'><a href='" + rootUrl + "/tags/" + tags[j] + ".html" + "'>" + tags[j] + "</a></span>"
+            // match everywhere we do tag normalization
+            var clean_tag = tags[j].replace(' ', '-').replace("'", "");
+            var proper_tag_name = tags[j].replace(/-/g, ' ');
+            tagsHtml += "<span class='tag'><a href='" + rootUrl + "/tags/" + clean_tag + ".html" + "'>" + proper_tag_name + "</a></span>"
         }
         
         titleHtml = '<a href="' + item["url"] + '">' + item["title"] + "</a>"
