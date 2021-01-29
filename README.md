@@ -4,5 +4,9 @@ GDL is a human-curated list of articles on various game design topics. Find game
 
 # Submitting an Article
 
-Take a look at the `data.json` file and open a pull-request with your changes for additional articles. Please make sure you grammar, syntax, captialization, etc. is correct to get your request merged in as quickly as possible.
+Take a look at the `data.json` file and open a pull-request with your changes for additional articles.
 
+- For tag ideas, look at existing tags, and think about what people might search for
+- For the blurb, try to include words that people searching for your article would use to find it
+
+If you're stuck, feel free to open a PR for an entry with just a title and URL, and I'll see if I can provide my thoughts on the tags and blurb.
