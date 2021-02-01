@@ -14,7 +14,7 @@
     {
         "title": "Why are character-classes used in game design?",
         "url": "https://gamedev.stackexchange.com/questions/83251/why-are-character-classes-used-in-game-design",
-        "tags": [ "RPG", "JRPG", "roguelike", "MOBA", "balance" ],
+        "tags": [ "RPG", "JRPG", "roguelike", "MOBA", "balance", "ckasses" ],
         "blurb": "Benefits of adding classes to your game and how they impact the overall game design and balancing."
     },
     {
@@ -114,7 +114,7 @@
     {
         "title": "How To Balance An RPG",
         "url": "https://kotaku.com/how-to-balance-an-rpg-1625516832",
-        "tags": ["single-player", "RPG", "JRPG", "balance"],
+        "tags": ["single-player", "RPG", "JRPG", "balance", "classes"],
         "blurb": "How to design your RPG character classes so that they're mechanically interesting; how to deal with trash items; and using spreadsheets and formulas for balancing."
     },
     {
@@ -214,5 +214,17 @@
         "url": "https://www.gridsagegames.com/blog/2019/03/roguelike-level-design-addendum-static-procedural/",
         "tags": ["roguelike", "procedural generation", "level design"],
         "blurb": "A brief discussion about the pros of static vs. procedural maps in roguelikes. Both have pros and cons, there's a spectrum in the middle, and roguelikes can benefit from a mix of different types."
+    },
+    {
+        "title": "RPG Design: Do You Wanna Have Skillz or Have Some Class?",
+        "url": "http://rampantgames.com/blog/?p=3720",
+        "tags": ["RPG", "CRPG", "roguelike", "classes"],
+        "blurb": "A brief definition of and look at games that use classes with fixed skills, free selection of skills, and hybrid options, with some of the pros and cons of each approach ."
+    },
+    {
+        "title": "RPG Design: Staying Classy",
+        "url": "http://rampantgames.com/blog/?p=3723",
+        "tags": ["RPG", "CRPG", "classes"],
+        "blurb": "A detailed look at the trade-offs - pros and cons - of class-based systems vs. skill-based systems. Simplicity for new players, restricting or balancing content, power fantasy, imbalance and unviable builds, and more."
     }
 ]
