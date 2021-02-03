@@ -226,5 +226,11 @@
         "url": "http://rampantgames.com/blog/?p=3723",
         "tags": ["RPG", "CRPG", "classes"],
         "blurb": "A detailed look at the trade-offs - pros and cons - of class-based systems vs. skill-based systems. Simplicity for new players, restricting or balancing content, power fantasy, imbalance and unviable builds, and more."
+    },
+    {
+        "title": "Game Design using Micro Macro Meta Grouping",
+        "url": "https://levimoore.dev/game-design-using-micro-macro-meta-grouping/",
+        "tags": ["theory", "core loop", "meta", "game analysis"],
+        "blurb": "How to analyze the micro, macro, and meta groups of your game; what they look like when done really well; and an analysis of a few games (Candy Crush, League of Legends, Minecraft, Overcooked) using micro, macro, and meta."
     }
 ]
