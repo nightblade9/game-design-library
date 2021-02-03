@@ -232,5 +232,11 @@
         "url": "https://levimoore.dev/game-design-using-micro-macro-meta-grouping/",
         "tags": ["theory", "core loop", "meta", "game analysis"],
         "blurb": "How to analyze the micro, macro, and meta groups of your game; what they look like when done really well; and an analysis of a few games (Candy Crush, League of Legends, Minecraft, Overcooked) using micro, macro, and meta."
+    },
+    {
+        "title": "Number Punchers: How Final Fantasy and Dragon Quest handle combat math",
+        "url": "https://www.gamasutra.com/view/news/325537/Number_Punchers_How_Final_Fantasy_and_Dragon_Quest_handle_combat_math.php",
+        "tags": ["RPG", "CRPG", "JRPG", "formulas", "dragons quest", "final fantasy"],
+        "blurb": "A look at how Final Fantasy and Dragon's Quest calculate damage, and how that affects everything from keeping monsters in play to character growth. Includes some useful questions to ask yourself when developing your own formulas."
     }
 ]
