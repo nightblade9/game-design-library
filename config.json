@@ -1,3 +1,8 @@
 {
-    "siteRootUrl": "https://nightblade9.github.io/game-design-library"
+    "siteRootUrl": "https://nightblade9.github.io/game-design-library",
+    "openGraph": {
+        "title": "Game Design Library",
+        "image": "images/open-graph.png",
+        "description": "A library of game-design articles that deal with topics like lives, balancing difficulty, perfecting your core loop, loot-boxes, and player experience - without the minutae of game development. Updated weekly."
+    }
 }
