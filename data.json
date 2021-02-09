@@ -108,7 +108,7 @@
     {
         "title": "Scroll Back: The Theory and Practice of Cameras in Side-Scrollers",
         "url": "https://www.gamasutra.com/blogs/ItayKeren/20150511/243083/Scroll_Back_The_Theory_and_Practice_of_Cameras_in_SideScrollers.php",
-        "tags": [ "camera", "visuals" ],
+        "tags": [ "camera", "visuals", "reference" ],
         "blurb": "A thorough reference of several different styles of cameras in 2D games, and how they work. Covers scrolling, attention, smoothing, snapping, framing, multi-focus, camera shake, and more."
     },
     {
@@ -238,5 +238,29 @@
         "url": "https://www.gamasutra.com/view/news/325537/Number_Punchers_How_Final_Fantasy_and_Dragon_Quest_handle_combat_math.php",
         "tags": ["RPG", "CRPG", "JRPG", "formulas", "dragons quest", "final fantasy"],
         "blurb": "A look at how Final Fantasy and Dragon's Quest calculate damage, and how that affects everything from keeping monsters in play to character growth. Includes some useful questions to ask yourself when developing your own formulas."
+    },
+    {
+        "title": "Match Game Mechanics: An exhaustive survey",
+        "url": "https://www.gamasutra.com/blogs/JonathanBailey/20150227/237544/Match_Game_Mechanics_An_exhaustive_survey.php",
+        "tags": ["match-3", "reference", "mechanics"],
+        "blurb": "A thorough analysis of all the fundamentally different types of mechanics in Match-3 games: topology (grid shape and size), player actions, match conditions, gravity, block spawning, and auto-match."
+    },
+    {
+        "title": "The Future of Match 3 – What You Need to Know – PART I",
+        "url": "https://www.gamerefinery.com/the-future-of-match-3-what-you-need-to-know-part-i/",
+        "tags": ["match-3", "monetization", "mobile"],
+        "blurb": "A look at single-dimensional match-3 games (with one core mechanic) vs. multi-dimensional games, the trade-offs for players, and some common game design elements that often characterize successful games"
+    },
+    {
+        "title": "The Future of Match 3 – What You Need to Know – PART II",
+        "url": "https://www.gamerefinery.com/the-future-of-match-3-what-you-need-to-know-part-ii/",
+        "tags": ["match-3", "monetization", "mobile"],
+        "blurb": "An analysis of single-dimensional match-3 games, and three tips to make excellent ones, based on data: provide lots of things to play with, supply new mechanics over time, and lower the barrier for in-app purchases (IAP)"
+    },
+    {
+        "title": "The Future of Match 3 – What You Need to Know – PART III",
+        "url": "https://www.gamerefinery.com/the-future-of-match-3-what-you-need-to-know-part-iii/",
+        "tags": ["match-3", "mobile", "monetization"],
+        "blurb": "A look at the delicate balance of multi-dimensional match-3 games: every game element must balance the core layers. Find what parts of those two genres work together, add non-linearity, unique mechanics, dynamic items to buy, and rich social aspects, like ladders."
     }
 ]
