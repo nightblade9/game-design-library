@@ -248,13 +248,13 @@
     {
         "title": "The Future of Match 3 – What You Need to Know – PART I",
         "url": "https://www.gamerefinery.com/the-future-of-match-3-what-you-need-to-know-part-i/",
-        "tags": ["match-3", "monetization", "mobile"],
+        "tags": ["match-3", "monetization", "mobile", "IAP"],
         "blurb": "A look at single-dimensional match-3 games (with one core mechanic) vs. multi-dimensional games, the trade-offs for players, and some common game design elements that often characterize successful games"
     },
     {
         "title": "The Future of Match 3 – What You Need to Know – PART II",
         "url": "https://www.gamerefinery.com/the-future-of-match-3-what-you-need-to-know-part-ii/",
-        "tags": ["match-3", "monetization", "mobile"],
+        "tags": ["match-3", "monetization", "mobile", "IAP"],
         "blurb": "An analysis of single-dimensional match-3 games, and three tips to make excellent ones, based on data: provide lots of things to play with, supply new mechanics over time, and lower the barrier for in-app purchases (IAP)"
     },
     {
