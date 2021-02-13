@@ -15,6 +15,7 @@ Interested in adding a link to Game Design Library? Fantastic! We accept any and
 Tagging is complex and ever-changing, here are some notes on some tags that might not make obvious sense at a first look:
 
 - `game analysis`: items that take an in-depth look at a title or a particular mechanic
+- `cross-game analysis`: items that compare several games with an attempt to find broader trends
 - `reference`: exhaustive reference-type material that catalogues lots of things about a particular facet of design
 - `RPG` vs. `JRPG` vs. `CRPG`: try to tag `RPG` for generic things, `JRPG` and `CRPG` for things specific to those sub-genres.
 - `formulas`: items that extensively discuss and/or provide formulas for use

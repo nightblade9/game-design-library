@@ -249,7 +249,7 @@
         "title": "The Future of Match 3 – What You Need to Know – PART I",
         "url": "https://www.gamerefinery.com/the-future-of-match-3-what-you-need-to-know-part-i/",
         "tags": ["match-3", "monetization", "mobile", "IAP"],
-        "blurb": "A look at single-dimensional match-3 games (with one core mechanic) vs. multi-dimensional games, the trade-offs for players, and some common game design elements that often characterize successful games"
+        "blurb": "A look at single-dimensional match-3 games (with one core mechanic) vs. multi-dimensional meta games, the trade-offs for players, and some common game design elements that often characterize successful games"
     },
     {
         "title": "The Future of Match 3 – What You Need to Know – PART II",
@@ -261,12 +261,18 @@
         "title": "The Future of Match 3 – What You Need to Know – PART III",
         "url": "https://www.gamerefinery.com/the-future-of-match-3-what-you-need-to-know-part-iii/",
         "tags": ["match-3", "mobile", "monetization"],
-        "blurb": "A look at the delicate balance of multi-dimensional match-3 games: every game element must balance the core layers. Find what parts of those two genres work together, add non-linearity, unique mechanics, dynamic items to buy, and rich social aspects, like ladders."
+        "blurb": "A look at the delicate balance of multi-dimensional meta match-3 games: every game element must balance the core layers. Find what parts of those two genres work together, add non-linearity, unique mechanics, dynamic items to buy, and rich social aspects, like ladders."
     },
     {
         "title": "How to crack the Match 3 code - Part 1",
         "url": "https://www.uxreviewer.com/home/2020/5/9/how-to-crack-the-match-3-code-part-1",
-        "tags": ["match-3", "mobile", "core loop", "game analysis"],
+        "tags": ["match-3", "mobile", "core loop", "cross-game analysis"],
         "blurb": "Analysis of what makes Match 3 games so successful - simplified core loop, low player effort, short sessions - and how players now expect collapse-type mechanics, meta mechanics, in-game currency, and story in their match-3 games."
+    },
+    {
+        "title": "How to Crack the Match 3 Code?- Part 2",
+        "url": "https://www.gamerefinery.com/how-to-crack-the-match-3-code-part-2/",
+        "tags": ["match-3", "mobile", "cross-game analysis", "consumables"],
+        "blurb": "An in-depth analysis at what makes Candy Crush Saga and other meta match-3 games successful. Topics covered include currencies, boosters, rarity, collapse vs. swiping, IP, demographics, narration, and meta systems."
     }
 ]
