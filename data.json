@@ -274,5 +274,23 @@
         "url": "https://www.gamerefinery.com/how-to-crack-the-match-3-code-part-2/",
         "tags": ["match-3", "mobile", "cross-game analysis", "consumables"],
         "blurb": "An in-depth analysis at what makes Candy Crush Saga and other meta match-3 games successful. Topics covered include currencies, boosters, rarity, collapse vs. swiping, IP, demographics, narration, and meta systems."
+    },
+    {
+        "title": "How to Design a Game Around Emergent Gameplay",
+        "url": "https://medium.com/@GWBycer/how-to-design-a-game-around-emergent-gameplay-a9348557570b",
+        "tags": ["emergent gameplay", "depth", "complexity", "mechanics", "goals"],
+        "blurb": "A look at what emergent gameplay is and isn't, and some ingredients that support emergent gameplay: mechanics with multiple purposes, properties, goals, multiple solutions. It isn't just an open world or a moddable game."
+    },
+    {
+        "title": "Complexity and Emergent Gameplay",
+        "url": "https://www.gamesprecipice.com/complexity-emergent-gameplay/",
+        "tags": ["emergent gameplay", "depth", "complexity", "mechanics", "scoring", "cross-game analysis"],
+        "blurb": "Complexity, depth, and the ratio between them determines emergent gameplay. A look at some board games that create depth out of simple mechanics, and how rules, scoring, and social elements can increase depth without increasing complexity. (Looks at board games, but directly applicable to video games.)"
+    },
+    {
+        "title": "Emergent Complexity in Games",
+        "url": "https://sites.psu.edu/gamedesignbynickdemarco/2014/02/13/emergent-complexity-in-games/",
+        "tags": ["emergent gameplay", "complexity", "economy", "Scribblenauts", "Pokemon"],
+        "blurb": "Emergent gameplay is the holy grail of game design. Game designers can implement intentional emergence (e.g. Scribblenauts) and unintentional emergence (e.g. Pokemon cloning glitch), which can break your game."
     }
 ]
