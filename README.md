@@ -9,6 +9,8 @@ Interested in adding a link to Game Design Library? Fantastic! We accept any and
 - Open up `data.json`, copy-paste the last entry, and update the copy with your new link
 - For tags, look at existing tags to get an idea of what kind of tags might make sense. Typically, we tag by genre, or "meta tags" like `game analysis`
 - For the blurb, try to summarize the item and explain it in a few words, and use words that someone searching for that item might enter into the search box.
+- Re-run [Tropical](github.com/nightblade9/tropical) against the GDL repository and make sure it builds correctly (open up index.html and check if everything looks good)
+- Commit, push, and open a PR
 
 # Tags
 
