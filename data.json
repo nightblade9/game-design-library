@@ -44,7 +44,7 @@
     {
         "title": "Getting Started in Automated Game Design",
         "url": "https://www.youtube.com/watch?v=dZv-vRrnHDA",
-        "tags": [ "procedural generation", "automated game design" ],
+        "tags": [ "procedural generation", "automated game design", "generative space" ],
         "blurb": "A detailed introduction to automated game design: writing code that designs game mechanics for you. Start with three landmark games, look at the search space size, and use automated game-playing to tell how strategic or fun the game is.",
         "icon": "video"
     },
@@ -292,5 +292,17 @@
         "url": "https://sites.psu.edu/gamedesignbynickdemarco/2014/02/13/emergent-complexity-in-games/",
         "tags": ["emergent gameplay", "complexity", "economy", "Scribblenauts", "Pokemon"],
         "blurb": "Emergent gameplay is the holy grail of game design. Game designers can implement intentional emergence (e.g. Scribblenauts) and unintentional emergence (e.g. Pokemon cloning glitch), which can break your game."
+    },
+    {
+        "title": "Tutorial: Generative & Possibility Space",
+        "url": "https://www.possibilityspace.org/tutorial-generative-possibility-space/",
+        "tags": ["generative space", "procedural generation", "platformer"],
+        "blurb": "An introduction to possibility and generative spaces, and a look at generating Mario levels: some algorithms generate in larger, more varied but also unplayable spaces, while others generate smaller, more interesting, but more predictable spaces."
+    },
+    {
+        "title": "Perlin Noise, Procedural Content Generation, and Interesting Space",
+        "url": "https://heredragonsabound.blogspot.com/2019/02/perlin-noise-procedural-content.html",
+        "tags": ["procedural generation", "generative space", "roguelike"],
+        "blurb": "Random generation can generate many spaces, but few are interesting spaces. You can make your generation hit more interesting spaces by leveraging deep domain knowledge about your game world to make interesting content. Interesting spaces are oddly-shaped and probably use various different algorithms."
     }
 ]
