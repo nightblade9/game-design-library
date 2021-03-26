@@ -304,5 +304,11 @@
         "url": "https://heredragonsabound.blogspot.com/2019/02/perlin-noise-procedural-content.html",
         "tags": ["procedural generation", "generative space", "roguelike"],
         "blurb": "Random generation can generate many spaces, but few are interesting spaces. You can make your generation hit more interesting spaces by leveraging deep domain knowledge about your game world to make interesting content. Interesting spaces are oddly-shaped and probably use various different algorithms."
+    },
+    {
+        "title": "Procedurally Assisted Generation",
+        "url": "http://david.fancyfishgames.com/2016/08/procedurally-assisted-generation.html",
+        "tags": ["procedural generation", "generative space"],
+        "blurb": "Procedural generation is great at adding variation on content, but not creating new content (other than AI). Hand-crafted levels add content - bosses, enemies, and core progression.  Create an intelligent design by using PCG to generate layouts and fill spaces; this reduces development time while maintaining that hand-crafted feel."
     }
 ]
