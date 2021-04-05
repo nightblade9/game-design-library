@@ -310,5 +310,17 @@
         "url": "http://david.fancyfishgames.com/2016/08/procedurally-assisted-generation.html",
         "tags": ["procedural generation", "generative space"],
         "blurb": "Procedural generation is great at adding variation on content, but not creating new content (other than AI). Hand-crafted levels add content - bosses, enemies, and core progression.  Create an intelligent design by using PCG to generate layouts and fill spaces; this reduces development time while maintaining that hand-crafted feel."
+    },
+    {
+        "title": "Guide to all the different Anti-Grind Mechanics that JRPG developers have made over the years",
+        "url": "https://www.reddit.com/r/JRPG/comments/m5u2we/guide_to_all_the_different_antigrind_mechanics/",
+        "tags": ["JRPG", "balance", "dynamic difficulty", "cross-game analysis"],
+        "blurb": "Many JRPGs created interesting designs that don't require or allow players to grind, such as scaling enemies, reducing or eliminating XP, level caps, not respawning monsters, and penalizing the player; this thread lists pros and cons, too."
+    },
+    {
+        "title": "Vagrant Story and its lessons for uninspired JRPG game design",
+        "url": "https://www.gamasutra.com/blogs/KamruzMoslemi/20110107/88731/Vagrant_Story_and_its_lessons_for_uninspired_JRPG_game_design.php",
+        "tags": ["JRPG", "Vagrant Story"],
+        "blurb": "Many JRPGs, old and new, reuse mechanics out of tradition or nostalgia, despite them being poor game design (e.g. random encounters). We can innovate and make more fun games: include customization, remove unnecessary towns and areas, make unique areas, reward exploration, making battles meaningful, etc."
     }
 ]
