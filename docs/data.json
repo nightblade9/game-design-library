@@ -322,5 +322,17 @@
         "url": "https://www.gamasutra.com/blogs/KamruzMoslemi/20110107/88731/Vagrant_Story_and_its_lessons_for_uninspired_JRPG_game_design.php",
         "tags": ["JRPG", "Vagrant Story"],
         "blurb": "Many JRPGs, old and new, reuse mechanics out of tradition or nostalgia, despite them being poor game design (e.g. random encounters). We can innovate and make more fun games: include customization, remove unnecessary towns and areas, make unique areas, reward exploration, making battles meaningful, etc."
+    },
+    {
+        "title": "Skill-based bonus levels in Royal Match (Match-3)",
+        "url": "https://twitter.com/emojipopcast/status/1379890929897598976",
+        "tags": ["match-3", "Royal Match", "game analysis", "difficulty"],
+        "blurb": "A short Twitter thread analyzing how Royal Match maintains a casual difficulty while providing high-skill bonus levels for expert players to try, every ten levels. These are optional, high-risk, high-reward levels."
+    },
+    {
+        "title": "Royal Match - The New King from Turkey?",
+        "url": "https://www.deconstructoroffun.com/blog/2021/3/21/royal-match-the-new-king-from-turkey",
+        "tags": ["match-3", "game analysis", "Royal Match", "mobile"],
+        "blurb": "An in-depth look at Royal Match, how it fits into the match-3 puzzle mobile industry, and how it recombines, innovates, and removes elements from other games to create something which a much better user experience for players."
     }
 ]
