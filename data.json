@@ -334,5 +334,29 @@
         "url": "https://www.deconstructoroffun.com/blog/2021/3/21/royal-match-the-new-king-from-turkey",
         "tags": ["match-3", "game analysis", "Royal Match", "mobile"],
         "blurb": "An in-depth look at Royal Match, how it fits into the match-3 puzzle mobile industry, and how it recombines, innovates, and removes elements from other games to create something which a much better user experience for players."
+    },
+    {
+        "title": "How to Design Levels With the Super Mario World Method",
+        "url": "https://gamedevelopment.tutsplus.com/articles/how-to-design-levels-with-the-super-mario-world-method--cms-25177",
+        "tags": ["level design", "difficulty", "balance", "Super Mario World", "CCST"],
+        "blurb": "An introduction to the challenge, cadence, skill-theme system Nintendo uses in Mario and other games. You design challenges, evolve them into qualitatively different types, expand them into quantitatively bigger challenges, and ultimately combine these tools together to craft interesting, balanced challenges for players."
+    },
+    {
+        "title": "The Super Mario World Method: Using Evolutions and Expansions",
+        "url": "https://gamedevelopment.tutsplus.com/articles/the-super-mario-world-method-using-evolutions-and-expansions--cms-25295",
+        "tags": ["Super Mario World", "CCST", "level design"],
+        "blurb": "An in-depth look at challenges and expansions in level design; how you can evolve different types of challenges; how difficulty is subjective, not numerical; and practical examples of how to construct a level with different challenges that evolve into a final cululative challenge."
+    },
+    {
+        "title": "The Super Mario World Method: Understanding Skill Themes",
+        "url": "https://gamedevelopment.tutsplus.com/articles/the-super-mario-world-method-understanding-skill-themes--cms-25722",
+        "tags": ["Super Mario World", "CCST", "level design", "skills"],
+        "blurb": "An analysis of the skill-sets in Super Mario World, which is a composite of an action and platformer game. Levels focus on one genre - platformer vs. action - and on one skill theme - precision vs. speed. You can use these ideas to create genre-focused levels that shift between skill-sets within a level."
+    },
+    {
+        "title": "Making Levels With the Super Mario World Method: Skill Themes, Part 2",
+        "url": "https://gamedevelopment.tutsplus.com/articles/making-levels-with-the-super-mario-world-method-skill-themes-part-2--cms-26110",
+        "tags": ["Super Mario World", "CCST", "level design", "skills", "inversions", "difficulty"],
+        "blurb": "A look at momentum and inercepts in Super Mario World, and level design tool: inversions, such as having a power-up will block a player. Mixing these with intercepts creates different scenarios that require different levels of skill to pass."
     }
 ]
