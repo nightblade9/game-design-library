@@ -358,5 +358,12 @@
         "url": "https://gamedevelopment.tutsplus.com/articles/making-levels-with-the-super-mario-world-method-skill-themes-part-2--cms-26110",
         "tags": ["Super Mario World", "CCST", "level design", "skills", "inversions", "difficulty"],
         "blurb": "A look at momentum and inercepts in Super Mario World, and level design tool: inversions, such as having a power-up will block a player. Mixing these with intercepts creates different scenarios that require different levels of skill to pass."
+    },
+    {
+        "title": "What's the Point of Critical Hits? ~ Design Doc",
+        "url": "https://www.youtube.com/watch?v=fMFkd7edBR0",
+        "tags": ["critical-hits", "mechanics", "balance"],
+        "blurb": "Critical hits are deceptively simple: add more damage randomly. You can change both aspects (when to crit, and what to crit) to create unique mechanics, such as extra status effects, skill-based critical hits or even negative critical hits. Critical hits work well in some genres (RPGs, first-person shooters), but can frustrate in others (fighting or tactical games).",
+        "icon": "video"
     }
 ]
