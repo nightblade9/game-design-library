@@ -365,5 +365,12 @@
         "tags": ["critical-hits", "mechanics", "balance"],
         "blurb": "Critical hits are deceptively simple: add more damage randomly. You can change both aspects (when to crit, and what to crit) to create unique mechanics, such as extra status effects, skill-based critical hits or even negative critical hits. Critical hits work well in some genres (RPGs, first-person shooters), but can frustrate in others (fighting or tactical games).",
         "icon": "video"
+    },
+    {
+        "title": "How to Keep Players Engaged (Without Being Evil)",
+        "url": "https://www.youtube.com/watch?v=hbzGO_Qonu0",
+        "tags": ["engagement", "pacing", "intensity", "difficulty", "core loop", "goals"],
+        "blurb": "How to keep players engaged, without addictive evil design? Pacing (varying the intensity) of the pillars (core gameplay) such as alternating puzzles with action or cutscenes; anticipation and foreshadowing (what's behind that giant door?), mysteries (including narrative), long-term goals like collectables or map completion, and compelling challenge (not too easy or difficult)",
+        "icon": "video"
     }
 ]
