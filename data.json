@@ -372,5 +372,11 @@
         "tags": ["engagement", "pacing", "intensity", "difficulty", "core loop", "goals"],
         "blurb": "How to keep players engaged, without addictive evil design? Pacing (varying the intensity) of the pillars (core gameplay) such as alternating puzzles with action or cutscenes; anticipation and foreshadowing (what's behind that giant door?), mysteries (including narrative), long-term goals like collectables or map completion, and compelling challenge (not too easy or difficult)",
         "icon": "video"
+    },
+    {
+        "title": "Steambirds: Survival Mobile",
+        "url": "https://lostgarden.home.blog/2011/10/13/steambirds-survival-mobile/",
+        "tags": ["arrow of play", "game analysis", "choice", "pacing", "goals"],
+        "blurb": "An introduction to the concept of arrow of play, the property of systems that always move the player forward (such as hunger in roguelikes). Several examples from Steambirds about arrow of play: decay, increasing enemies, short-term and long-term goals, currency and currency flow, and limited choices."
     }
 ]
