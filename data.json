@@ -46,28 +46,28 @@
         "url": "https://www.youtube.com/watch?v=dZv-vRrnHDA",
         "tags": [ "procedural generation", "automated game design", "generative space" ],
         "blurb": "A detailed introduction to automated game design: writing code that designs game mechanics for you. Start with three landmark games, look at the search space size, and use automated game-playing to tell how strategic or fun the game is.",
-        "icon": "video"
+        "type": "video"
     },
     {
         "title": "Are Lives Outdated Game Design?",
         "url": "https://www.youtube.com/watch?v=c2CLO8CcBjg",
         "tags": ["lives", "checkpoints", "side-scroller", "platformer"],
         "blurb": "Older games use lives or checkpoints, which cause frustration when replaying the same content over and over, but it's useful for procedural games. Powering up after death can reduce boredom. What other methods can replace lives?",
-        "icon": "video"
+        "type": "video"
     },
     {
         "title": "7 Game Design Mistakes to Avoid",
         "url": "https://www.youtube.com/watch?v=5x4Q_SOLN28&t=300s",
         "tags": ["project management", "polish", "tutorials" ],
         "blurb": "Seven common game design mistakes, including: thinking too big, ignoring onboarding tutorials, being too committed to an idea, igoring polish, and including random things.",
-        "icon": "video"
+        "type": "video"
     },
     {
         "title": "Downwell's Dual Purpose Design",
         "url": "https://www.youtube.com/watch?v=i5C1Uj7jJCg",
         "tags": [ "theory", "game analysis", "Downwell" ],
         "blurb": "All game elements in Downwell serve two or more purposes, which creates emergent gameplay and difficult choices for the player. Weapons also refill health, enemies provide a temporary speed reduction, and replaying levels allows you to master the controls.",
-        "icon": "video"
+        "type": "video"
     },
     {
         "title": "How to Get Your Game to Done",
@@ -152,7 +152,7 @@
         "url": "https://www.youtube.com/watch?v=VxELCfmpr7E",
         "tags": [ "game analysis", "Super Mario Odyssey" ],
         "blurb": "Super Mario Odyssey is fun from the get-go, by following three principles: multiple options to overcome any obstacle, clear objectives for the player, and increasing the difficulty of a mechanic step by step as the level progresses.",
-        "icon": "video"
+        "type": "video"
     },
     {
         "title": "Top 7 Idle Game Mechanics",
@@ -177,7 +177,7 @@
         "url": "https://www.youtube.com/watch?v=1ypOUn6rThM",
         "tags": ["behaviour", "player psychology", "theory"],
         "blurb": "Achievements and designer-made quests are extrinsic rewards, which can backfire and demotivate exploration and experimentation, which are intrinsic rewards. Leaderboards and personal bests work as self-motivating instric rewards.",
-        "icon": "video"
+        "type": "video"
     },
     {
         "title": "What is a Broughlike?",
@@ -364,14 +364,14 @@
         "url": "https://www.youtube.com/watch?v=fMFkd7edBR0",
         "tags": ["critical-hits", "mechanics", "balance"],
         "blurb": "Critical hits are deceptively simple: add more damage randomly. You can change both aspects (when to crit, and what to crit) to create unique mechanics, such as extra status effects, skill-based critical hits or even negative critical hits. Critical hits work well in some genres (RPGs, first-person shooters), but can frustrate in others (fighting or tactical games).",
-        "icon": "video"
+        "type": "video"
     },
     {
         "title": "How to Keep Players Engaged (Without Being Evil)",
         "url": "https://www.youtube.com/watch?v=hbzGO_Qonu0",
         "tags": ["engagement", "pacing", "intensity", "difficulty", "core loop", "goals"],
         "blurb": "How to keep players engaged, without addictive evil design? Pacing (varying the intensity) of the pillars (core gameplay) such as alternating puzzles with action or cutscenes; anticipation and foreshadowing (what's behind that giant door?), mysteries (including narrative), long-term goals like collectables or map completion, and compelling challenge (not too easy or difficult)",
-        "icon": "video"
+        "type": "video"
     },
     {
         "title": "Steambirds: Survival Mobile",

@@ -132,8 +132,8 @@ onSearch = (searchQuery) => {
                 titleHtml = '<a href="' + item["url"] + '">' + item["title"] + "</a>"
 
                 blurb = item["blurb"] || ""
-                if ("icon" in item) {
-                    titleHtml += "<img class='icon' src='" + rootUrl + "/images/" + item["icon"] + ".png' />"
+                if ("type" in item) {
+                    titleHtml += "<img class='icon' src='" + rootUrl + "/images/" + item["type"] + ".png' title='" + item["type"] + "' />"
                 }
                 
                 finalHtml += window.snippet.replace("{title}", titleHtml)
