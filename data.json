@@ -378,5 +378,11 @@
         "url": "https://lostgarden.home.blog/2011/10/13/steambirds-survival-mobile/",
         "tags": ["arrow of play", "game analysis", "choice", "pacing", "goals"],
         "blurb": "An introduction to the concept of arrow of play, the property of systems that always move the player forward (such as hunger in roguelikes). Several examples from Steambirds about arrow of play: decay, increasing enemies, short-term and long-term goals, currency and currency flow, and limited choices."
+    },
+    {
+        "title": "Oil it or Spoil it!",
+        "url": "https://www.fortressofdoors.com/oil-it-or-spoil-it/",
+        "tags": ["game analysis", "final fantasy", "dragons quest", "x-com"],
+        "blurb": "We often talk about game juice as cascading actions in response to user input, but what about oil? 'Oiling' a game to remove user pain can drastically improve it. Examples from Dragons Quest, Final Fantasty I, and X-COM illustrate pain-points and their solutions."
     }
 ]
