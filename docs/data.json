@@ -382,7 +382,14 @@
     {
         "title": "Oil it or Spoil it!",
         "url": "https://www.fortressofdoors.com/oil-it-or-spoil-it/",
-        "tags": ["game analysis", "meta", "final fantasy", "dragon quest", "x-com"],
-        "blurb": "We often talk about game juice as cascading actions in response to user input, but what about oil? 'Oiling' a game to remove user pain can drastically improve it. Examples from Dragon Quest, Final Fantasty I, and X-COM illustrate pain-points and their solutions."
+        "tags": ["game analysis", "final fantasy", "dragons quest", "x-com"],
+        "blurb": "We often talk about game juice as cascading actions in response to user input, but what about oil? 'Oiling' a game to remove user pain can drastically improve it. Examples from Dragons Quest, Final Fantasty I, and X-COM illustrate pain-points and their solutions."
+    },
+    {
+        "title": "The Legend of Zelda: A Link to the Past's dungeon design",
+        "url": "https://www.youtube.com/watch?v=ouO1R6vFDBo",
+        "tags": ["game analysis", "Link to the Past", "dungeons", "linearity"],
+        "blurb": "Link to the Past uses a combination of linear dungeons, open dungeons, and hybrid dungeons. Linear dungeons build tension and direction, hybrid ones allow some exploration, and open dungeons allow you to explore and solve them in any or short orders if you know what you're doing. Many dungeons loop back, giving the feeling of being bigger than they are, and one uses 3D space.",
+        "type": "video"
     }
 ]
