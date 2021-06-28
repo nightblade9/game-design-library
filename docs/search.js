@@ -133,7 +133,8 @@ onSearch = (searchQuery) => {
 
                 blurb = item["blurb"] || ""
                 if ("type" in item) {
-                    titleHtml += "<img class='icon' src='" + rootUrl + "/images/" + item["type"] + ".png' title='" + item["type"] + "' />"
+                    var type_url = rootUrl + "/types/" + item["type"].toLowerCase() + ".html";
+                    titleHtml += "<a href='" + type_url + "'><img class='icon' src='" + rootUrl + "/images/" + item["type"] + ".png' title='" + item["type"] + "' /></a>"
                 }
                 
                 finalHtml += window.snippet.replace("{title}", titleHtml)
