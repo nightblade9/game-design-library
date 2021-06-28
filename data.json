@@ -388,8 +388,15 @@
     {
         "title": "The Legend of Zelda: A Link to the Past's dungeon design",
         "url": "https://www.youtube.com/watch?v=ouO1R6vFDBo",
-        "tags": ["game analysis", "Link to the Past", "dungeons", "linearity"],
+        "tags": ["game analysis", "Link to the Past", "level design", "linearity", "open world"],
         "blurb": "Link to the Past uses a combination of linear dungeons, open dungeons, and hybrid dungeons. Linear dungeons build tension and direction, hybrid ones allow some exploration, and open dungeons allow you to explore and solve them in any or short orders if you know what you're doing. Many dungeons loop back, giving the feeling of being bigger than they are, and one uses 3D space.",
+        "type": "video"
+    },
+    {
+        "title": "Directing Exploration - How Games Guide Players WITHOUT Tutorials",
+        "url": "https://www.youtube.com/watch?v=rrL3iG_uacw",
+        "tags": ["game analysis", "linearity", "open world"],
+        "blurb": "Break games down into three categories: linear, semi-linear, and open-world. Each guides the player subtly or directly, using visual cues or forcing back-tracking. An analysis of Mario Brothers, Metroid, and Legend of Zelda (NES originals) shows how Nintendo masters this in the first few seconds of each of these games.",
         "type": "video"
     }
 ]
