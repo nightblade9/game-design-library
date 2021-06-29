@@ -398,5 +398,12 @@
         "tags": ["game analysis", "linearity", "open world"],
         "blurb": "Break games down into three categories: linear, semi-linear, and open-world. Each guides the player subtly or directly, using visual cues or forcing back-tracking. An analysis of Mario Brothers, Metroid, and Legend of Zelda (NES originals) shows how Nintendo masters this in the first few seconds of each of these games.",
         "type": "video"
+    },
+    {
+        "title": "Game Designer Critiques The Legend Of Zelda: A Link To The Past",
+        "url": "https://www.youtube.com/watch?v=-MC8QQaV1zI",
+        "tags": ["game analysis", "Link to the Past", "level design", "ARPG", "core loop"],
+        "blurb": "The first half of this video looks at A Link to the Past's game design: the core pillars of exploration, combat, and puzzles intersect heavily. Each item works for multiple core pillars; the core loop is explore, fight, puzzle, and get an item; it teases secrets you can't reach; unlocking items minimizes places to backtrack; and the game is based around interaction with the world, not necessarily the core gameplay.",
+        "type": "video"
     }
 ]
