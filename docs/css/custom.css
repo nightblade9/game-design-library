@@ -14,8 +14,12 @@ footer a {
 }
 
 .lead a {
-	color: white;
+	color: #2e7373;
 	text-decoration: underline;
+}
+
+header .lead a {
+    color: white;
 }
 
 .btn-primary {
