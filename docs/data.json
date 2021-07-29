@@ -405,5 +405,12 @@
         "tags": ["game analysis", "Link to the Past", "level design", "ARPG", "core loop"],
         "blurb": "The first half of this video looks at A Link to the Past's game design: the core pillars of exploration, combat, and puzzles intersect heavily. Each item works for multiple core pillars; the core loop is explore, fight, puzzle, and get an item; it teases secrets you can't reach; unlocking items minimizes places to backtrack; and the game is based around interaction with the world, not necessarily the core gameplay.",
         "type": "video"
+    },
+    {
+        "title": "How Games Use Feedback Loops",
+        "url": "h`ttps://www.youtube.com/watch?v=H4kbJObhcHw",
+        "tags": ["game analysis", "Call of Duty", "Mario Kart", "Pyre"],
+        "blurb": "Games contain both positive feedback loops (winners win more, losers lose more) and negative loops (winners get disadvantaged, losers get advantaged). Positive loops accelerate the game but may alienate low-skill players, while negative loops give weaker players a winning chance but may frustrate stronger players. Plus, some tips to minimize the drawbacks.",
+        "type": "video"
     }
 ]
