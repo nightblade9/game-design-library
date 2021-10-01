@@ -408,9 +408,16 @@
     },
     {
         "title": "How Games Use Feedback Loops",
-        "url": "h`ttps://www.youtube.com/watch?v=H4kbJObhcHw",
+        "url": "https://www.youtube.com/watch?v=H4kbJObhcHw",
         "tags": ["game analysis", "Call of Duty", "Mario Kart", "Pyre"],
         "blurb": "Games contain both positive feedback loops (winners win more, losers lose more) and negative loops (winners get disadvantaged, losers get advantaged). Positive loops accelerate the game but may alienate low-skill players, while negative loops give weaker players a winning chance but may frustrate stronger players. Plus, some tips to minimize the drawbacks.",
         "type": "video"
-    }
+    },
+    {
+        "title": "Side Quests - How To Make A Good Detour",
+        "url": "https://www.youtube.com/watch?v=yTJ_RjfhGVQ",
+        "tags": ["side quests", "game analysis", "cross-game-analysis", "Yakuza", "Bug Fables", "Paper Mario", "Mass Effect", "Cross Code"],
+        "blurb": "How can you make amazing side quests? With a few ingredients: start by making it easy to accept and track side-quests. Side quests can advance and supplement story, provide a variety of gameplay in mini-games, require different elaborate usage of game systems, or provide extreme difficulty with a super-boss or secret dungeon. Rewards should be appropriate and worth the effort, they can keep players ahead or keep them from falling behind.",
+        "type": "video"
+    }   
 ]
