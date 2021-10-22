@@ -419,5 +419,19 @@
         "tags": ["side quests", "game analysis", "cross-game-analysis", "Yakuza", "Bug Fables", "Paper Mario", "Mass Effect", "Cross Code"],
         "blurb": "How can you make amazing side quests? With a few ingredients: start by making it easy to accept and track side-quests. Side quests can advance and supplement story, provide a variety of gameplay in mini-games, require different elaborate usage of game systems, or provide extreme difficulty with a super-boss or secret dungeon. Rewards should be appropriate and worth the effort, they can keep players ahead or keep them from falling behind.",
         "type": "video"
-    }   
+    },
+    {
+        "title": "Final Fantasy Evolutions: Blue Mage Job Class (Final Fantasy V - Final Fantasy XIV)",
+        "url": "https://www.youtube.com/watch?v=Mvg7ta05BGk",
+        "tags": ["Final Fantasy", "Final Fantasy Evolutions", "cross-game analysis", "JRPG"],
+        "blurb": "Final Fantasy 5 introduced the Blue Mage class. How did the design of this class change through to Final Fantasy 14? From aesthetics to mechanics. Blue magic is sometimes character or materia specific, and often shared with class members. Characters either need to win the battle, see the spell, or be hit by it. Often it's a utility class, and sometimes a special move; and sometimes, it erodes your soul.",
+        "type": "video"
+    },
+    {
+        "title": "The Complete Evolution of Ultimate Weapons",
+        "url": "https://www.youtube.com/watch?v=6P56OH7RQy8",
+        "tags": ["Final Fantasy", "Final Fantasy Evolutions", "JRPG", "cross-game analysis"],
+        "blurb": "A quick look at how ultimate weapons changed, starting with Final Fantasy 1 and up to Final Fantasy 15. Common themes, including trade-offs: ultimate vs. second-tier best, ultimate per character vs. ultimate per class type or category, ultimates with special effects, and ultimates that require powering up to reach their full potential.",
+        "type": "video"
+    }
 ]
