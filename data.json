@@ -433,5 +433,12 @@
         "tags": ["Final Fantasy", "Final Fantasy Evolutions", "JRPG", "cross-game analysis"],
         "blurb": "A quick look at how ultimate weapons changed, starting with Final Fantasy 1 and up to Final Fantasy 15. Common themes, including trade-offs: ultimate vs. second-tier best, ultimate per character vs. ultimate per class type or category, ultimates with special effects, and ultimates that require powering up to reach their full potential.",
         "type": "video"
+    },
+    {
+        "title": "Shovel Knight and Nailing Nostalgia",
+        "url": "https://www.youtube.com/watch?v=rHhX5GtWNr8",
+        "tags": ["game analysis", "Shovel Knight", "nostalgia", "8-bit", "aesthetics"],
+        "blurb": "Shovel Knight nails nostalgia with four main techniques: copying from multiple sources (not just one game), emulating what works well from those games, modernising what doesn't work (e.g. checkpoints instead of lives), and rose-tinting - such as smooth controls, wide screen, difficulty options, and other modern trimmings.",
+        "type": "video"
     }
 ]
