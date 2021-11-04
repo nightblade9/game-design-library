@@ -65,7 +65,7 @@
     {
         "title": "Downwell's Dual Purpose Design",
         "url": "https://www.youtube.com/watch?v=i5C1Uj7jJCg",
-        "tags": [ "theory", "game analysis", "Downwell" ],
+        "tags": [ "theory", "game analysis", "Downwell", "emergent gameplay"],
         "blurb": "All game elements in Downwell serve two or more purposes, which creates emergent gameplay and difficult choices for the player. Weapons also refill health, enemies provide a temporary speed reduction, and replaying levels allows you to master the controls.",
         "type": "video"
     },
@@ -439,6 +439,13 @@
         "url": "https://www.youtube.com/watch?v=rHhX5GtWNr8",
         "tags": ["game analysis", "Shovel Knight", "nostalgia", "8-bit", "aesthetics"],
         "blurb": "Shovel Knight nails nostalgia with four main techniques: copying from multiple sources (not just one game), emulating what works well from those games, modernising what doesn't work (e.g. checkpoints instead of lives), and rose-tinting - such as smooth controls, wide screen, difficulty options, and other modern trimmings.",
+        "type": "video"
+    },
+    {
+        "title": "The Rise of the Systemic Game",
+        "url": "https://www.youtube.com/watch?v=SnpAAX9CkIc",
+        "tags": ["emergent gameplay", "systemic design"],
+        "blurb": "Systemic design is when game systems can impact each other signicantly, which often leads to emergent gameplay. You can achieve this by: allowing things to be aware of and interact with other things (e.g. NPCs and animals interact); designing consistent, universal rules (e.g. wood can catch fire); and giving the user a goal, along with an open-ended way to achieve it (don't constrain the solution). Examples from Breath of the Wild, Far Cry, GTA, Dues Ex, and more.",
         "type": "video"
     }
 ]
