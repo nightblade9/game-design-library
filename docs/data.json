@@ -463,6 +463,13 @@
         "tags": ["bosses"],
         "blurb": "Good boss battles are fun, challenging, intimidating, unique. They sometimes give awesome rewards, introduce new mechanics, or use multiple phases (to keep things fresh). They should have a purpose - why am I fighting this boss? Avoid padding bosses with health, or giving unavoidable or overly difficult challenges.",
         "type": "video"
+    },
+    {
+        "title": "Boss Battle Design ~ Design Doc",
+        "url": "https://www.youtube.com/watch?v=wUPugc51udc",
+        "tags": ["bosses", "Arkham Asylum", "Metal Gear Solid", "Star Fox Adventures"],
+        "blurb": "Three ways to make a great boss include a test of skill, a narrative device, or a mechanical change-of-pace. You can see good, and bad, examples of this, in Batman: Arkham Asylum, Metal Gear Solid 3, an Star Fox Adventures",
+        "type": "video"
     }
 ]
 /*** WARNING: DO NOT EDIT! This file is generated and will be overwritten! ***/
