@@ -39,7 +39,8 @@ onSearch = (searchQuery) => {
         searchQuery = document.getElementById("query").value;
     }
     
-    searchQuery = decodeURI(searchQuery);
+    // decodeURI and decodeURIComponent don't do anything. Sadly, we have to do this manually.
+    searchQuery = searchQuery.replace("+", " ");
     document.getElementById("query").value = searchQuery;
 
     var searchWords = searchQuery.split(' ');
