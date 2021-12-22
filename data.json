@@ -474,5 +474,12 @@
         "url": "https://www.nyfa.edu/student-resources/how-to-design-best-boss-battles-4-must-read-tips/",
         "tags": ["bosses"],
         "blurb": "Great bosses often include four things: a memorable build-up before the match, different mechanics that prepare the player for future challenges, story and world enrichment, and testing certain skills."
+    },
+    {
+        "title": "How to Design Great Metroidvania Levels | Game Design",
+        "url": "https://www.youtube.com/watch?v=bAHXYfP38CA",
+        "tags": ["level design", "metroidvania"],
+        "blurb": "You can use a few simple techniques to design a great metroidvania: draft the map as a bunch of connected rooms; develop the timeline of key events, bosses, and locations; plan player abilities and how they fit into the world; make individual rooms; test, test, test, modify, and test again.",
+        "type": "video"
     }
 ]
