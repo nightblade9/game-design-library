@@ -488,5 +488,12 @@
         "tags": ["towns", "RPG", "JRPG", "cross-game analysis"],
         "blurb": "What makes a great town? A check-point and safe space between danger; a health/resource refiller (if battles are about resource depletion); a break from intense combat with things like secrets, lore, or mini-games; a place to complete quests for rewards; hints about future dangers or optional quests; a source of environmental storytelling",
         "type": "video"
+    },
+    {
+        "title": "Building Better Crafting Systems",
+        "url": "https://www.youtube.com/watch?v=Nj7EaryBgak",
+        "tags": ["crafting", "cross-game analysis"],
+        "blurb": "An in-depth look at the three components of crafting systems: collection, crafting, and usage - and how to make them shine; mistakes to avoid that make crafting laborious; how to make simple crafting meaningful; and when your game should and shouldn't include crafting",
+        "type": "video"
     }
 ]
