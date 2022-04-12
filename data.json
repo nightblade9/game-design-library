@@ -495,5 +495,12 @@
         "tags": ["crafting", "cross-game analysis"],
         "blurb": "An in-depth look at the three components of crafting systems: collection, crafting, and usage - and how to make them shine; mistakes to avoid that make crafting laborious; how to make simple crafting meaningful; and when your game should and include crafting: to give players control over the way they play, and an organic way to interact with the mechanics.",
         "type": "video"
+    },
+    {
+        "title": "How Do You Improve Turn Based Combat?",
+        "url": "https://www.youtube.com/watch?v=ktogjiX3eI4",
+        "blurb": "Turn-based combat is often slow and grindy. How can you improve it? Speed up actions, intros, and attack animations; use quick-time events so attacking and defending are interactive; streamline menu navigation; integrate turn economy (add, cancel, speed up, and slow down turns); reward players with new moves, interesting tactical choices, and story bits between battles; make interesting, unique monsters; use fights sparingly; grant small rewards like skill-points.",
+        "tags": ["turn-based combat", "RPG", "JRPG", "Disgaea", "Persona 5", "Paper Mario", "Pokemon", "Super Mario RPG", "Dragons Quest", "Fire Emblem", "cross-game analysis"],
+        "type": "video"
     }
 ]
