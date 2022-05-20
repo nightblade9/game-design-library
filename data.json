@@ -502,5 +502,12 @@
         "blurb": "Turn-based combat is often slow and grindy. How can you improve it? Speed up actions, intros, and attack animations; use quick-time events so attacking and defending are interactive; streamline menu navigation; integrate turn economy (add, cancel, speed up, and slow down turns); reward players with new moves, interesting tactical choices, and story bits between battles; make interesting, unique monsters; use fights sparingly; grant small rewards like skill-points.",
         "tags": ["turn-based combat", "RPG", "JRPG", "Disgaea", "Persona 5", "Paper Mario", "Pokemon", "Super Mario RPG", "Dragons Quest", "Fire Emblem", "cross-game analysis"],
         "type": "video"
+    },
+    {
+        "title": "Are Score Systems Still Relevant?",
+        "url": "https://www.youtube.com/watch?v=K6y9PJipfpk",
+        "blurb": "High scores originated in arcade games, but can provide modern games with additional benefits. Achieving a high score can be like an additional difficulty level if it requires more skillful play; it can turn the game into a very different, second game; and it can incentivize personal performance within levels. But, take care to avoid the downside of demoralizing players by slapping them with a poor ranking.",
+        "tags": ["scoring", "Tony Hawk Pro Skater", "Assault Android Cactus", "Opus Magnum"],
+        "type": "video"
     }
 ]
