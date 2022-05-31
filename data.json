@@ -509,5 +509,12 @@
         "blurb": "High scores originated in arcade games, but can provide modern games with additional benefits. Achieving a high score can be like an additional difficulty level if it requires more skillful play; it can turn the game into a very different, second game; and it can incentivize personal performance within levels. But, take care to avoid the downside of demoralizing players by slapping them with a poor ranking.",
         "tags": ["scoring", "Tony Hawk Pro Skater", "Assault Android Cactus", "Opus Magnum"],
         "type": "video"
+    },
+    {
+        "title": "How Do Save Systems Shape Games?",
+        "url": "https://www.youtube.com/watch?v=rzk5CESZMDQ",
+        "blurb": "Save systems broadly fall into two categories: save anywhere, and desginated save points. Save anywhere reduces the tension or drama of losing progress from dying, which most games can work with. It encourages more risk-taking and experimentation, because the risk is low. It can also enable save-scumming: with randomized games, players can reload repeatedly to get the game to give players what they want. Designed save points often provide safe havens or telegraph boss fights. Bigger gaps between save points raise the stakes. Auto-saves work well, but can potentially soft-lock (players can't progress further because of the state), or in a state where players can't win if you continue. Keeping recent backup files avoids this problem.",
+        "tags": ["saving", "Shovel Knight", "Resident Evil", "Fire Emblem"],
+        "type": "video"
     }
 ]
