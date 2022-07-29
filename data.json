@@ -516,5 +516,12 @@
         "blurb": "Save systems broadly fall into two categories: save anywhere, and desginated save points. Save anywhere reduces the tension or drama of losing progress from dying, which most games can work with. It encourages more risk-taking and experimentation, because the risk is low. It can also enable save-scumming: with randomized games, players can reload repeatedly to get the game to give players what they want. Designed save points often provide safe havens or telegraph boss fights. Bigger gaps between save points raise the stakes. Auto-saves work well, but can potentially soft-lock (players can't progress further because of the state), or in a state where players can't win if you continue. Keeping recent backup files avoids this problem.",
         "tags": ["saving", "Shovel Knight", "Resident Evil", "Fire Emblem"],
         "type": "video"
+    },
+    {
+        "title": "What Makes A Game Speedrun Friendly?",
+        "url": "https://www.youtube.com/watch?v=ixmOKhM_AlI",
+        "blurb": "You can make your game more speed-running with some (mostly small) changes: make all cutscenes skippable; make tutorials skippable for players who know how to play; minimize time to retry a level (players will retry a lot); allow user-set retry points; and remove randomness as much as possible.",
+        "tags": ["speedrunning", "Neon White", "Stuntman"],
+        "type": "video"
     }
 ]
