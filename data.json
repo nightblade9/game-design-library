@@ -320,7 +320,7 @@
     {
         "title": "Vagrant Story and its lessons for uninspired JRPG game design",
         "url": "https://www.gamedeveloper.com/design/vagrant-story-and-its-lessons-for-uninspired-jrpg-game-design",
-        "tags": ["JRPG", "Vagrant Story"],
+        "tags": ["JRPG", "Vagrant Story", "oil"],
         "blurb": "Many JRPGs, old and new, reuse mechanics out of tradition or nostalgia, despite them being poor game design (e.g. random encounters). We can innovate and make more fun games: include customization, remove unnecessary towns and areas, make unique areas, reward exploration, making battles meaningful, etc."
     },
     {
@@ -360,7 +360,7 @@
         "blurb": "A look at momentum and inercepts in Super Mario World, and level design tool: inversions, such as having a power-up will block a player. Mixing these with intercepts creates different scenarios that require different levels of skill to pass."
     },
     {
-        "title": "What's the Point of Critical Hits? ~ Design Doc",
+        "title": "What's the Point of Critical Hits?",
         "url": "https://www.youtube.com/watch?v=fMFkd7edBR0",
         "tags": ["critical-hits", "mechanics", "balance"],
         "blurb": "Critical hits are deceptively simple: add more damage randomly. You can change both aspects (when to crit, and what to crit) to create unique mechanics, such as extra status effects, skill-based critical hits or even negative critical hits. Critical hits work well in some genres (RPGs, first-person shooters), but can frustrate in others (fighting or tactical games).",
@@ -382,7 +382,7 @@
     {
         "title": "Oil it or Spoil it!",
         "url": "https://www.fortressofdoors.com/oil-it-or-spoil-it/",
-        "tags": ["game analysis", "final fantasy", "Dragons Quest", "x-com"],
+        "tags": ["game analysis", "final fantasy", "Dragons Quest", "x-com", "oil"],
         "blurb": "We often talk about game juice as cascading actions in response to user input, but what about oil? 'Oiling' a game to remove user pain can drastically improve it. Examples from Dragons Quest, Final Fantasty I, and X-COM illustrate pain-points and their solutions."
     },
     {
@@ -463,7 +463,7 @@
         "type": "video"
     },
     {
-        "title": "Boss Battle Design ~ Design Doc",
+        "title": "Boss Battle Design",
         "url": "https://www.youtube.com/watch?v=wUPugc51udc",
         "tags": ["bosses", "Arkham Asylum", "Metal Gear Solid", "Star Fox Adventures"],
         "blurb": "Three ways to make a great boss include a test of skill, a narrative device, or a mechanical change-of-pace. You can see good, and bad, examples of this, in Batman: Arkham Asylum, Metal Gear Solid 3, an Star Fox Adventures",
@@ -492,7 +492,7 @@
     {
         "title": "Building Better Crafting Systems",
         "url": "https://www.youtube.com/watch?v=Nj7EaryBgak",
-        "tags": ["crafting", "cross-game analysis"],
+        "tags": ["crafting", "cross-game analysis", "oil"],
         "blurb": "An in-depth look at the three components of crafting systems: collection, crafting, and usage - and how to make them shine; mistakes to avoid that make crafting laborious; how to make simple crafting meaningful; and when your game should and include crafting: to give players control over the way they play, and an organic way to interact with the mechanics.",
         "type": "video"
     },
@@ -500,7 +500,7 @@
         "title": "How Do You Improve Turn Based Combat?",
         "url": "https://www.youtube.com/watch?v=ktogjiX3eI4",
         "blurb": "Turn-based combat is often slow and grindy. How can you improve it? Speed up actions, intros, and attack animations; use quick-time events so attacking and defending are interactive; streamline menu navigation; integrate turn economy (add, cancel, speed up, and slow down turns); reward players with new moves, interesting tactical choices, and story bits between battles; make interesting, unique monsters; use fights sparingly; grant small rewards like skill-points.",
-        "tags": ["turn-based combat", "RPG", "JRPG", "Disgaea", "Persona 5", "Paper Mario", "Pokemon", "Super Mario RPG", "Dragons Quest", "Fire Emblem", "cross-game analysis"],
+        "tags": ["turn-based combat", "RPG", "JRPG", "Disgaea", "Persona 5", "Paper Mario", "Pokemon", "Super Mario RPG", "Dragons Quest", "Fire Emblem", "cross-game analysis", "oil"],
         "type": "video"
     },
     {
@@ -522,6 +522,13 @@
         "url": "https://www.youtube.com/watch?v=ixmOKhM_AlI",
         "blurb": "You can make your game more speed-running with some (mostly small) changes: make all cutscenes skippable; make tutorials skippable for players who know how to play; minimize time to retry a level (players will retry a lot); allow user-set retry points; and remove randomness as much as possible.",
         "tags": ["speedrunning", "Neon White", "Stuntman"],
+        "type": "video"
+    },
+    {
+        "title": "Stop for Big Moments!",
+        "url": "https://www.youtube.com/watch?v=OdVkEOzdCPw",
+        "blurb": "Using a small stop effect when the player gets hit or dies, can make a huge impact of the game. Without it, players be confused about how they got hurt or killed. The stop can range from a simple pause, to a fancier player death effect. Layering on a screen shake and slow-motion after death, can make the effect even more obvious and dramatic.",
+        "tags": ["feedback", "oil", "Smash Bros"],
         "type": "video"
     }
 ]
