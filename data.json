@@ -530,5 +530,18 @@
         "blurb": "Using a small stop effect when the player gets hit or dies, can make a huge impact of the game. Without it, players be confused about how they got hurt or killed. The stop can range from a simple pause, to a fancier player death effect. Layering on a screen shake and slow-motion after death, can make the effect even more obvious and dramatic.",
         "tags": ["feedback", "oil", "Smash Bros"],
         "type": "video"
+    },
+    {
+        "title": "Game Design: Taxonomy of Fishing Mini-games",
+        "url": "https://www.davideaversa.it/blog/game-design-taxonomy-fishing-mini-games/",
+        "blurb": "A discussion of the emotional goals of fishing games, and a taxonomy that breaks fishing games into three aspects: approach, bite, and catch; with a look at how each of these affect the player experience, and options (such as button-mashing vs. instant catch) and their trade-offs.",
+        "tags": ["fishing", "cross-game analysis"]
+    },
+    {
+        "title": "Why We Love Metroid",
+        "url": "https://www.youtube.com/watch?v=6r6pAiZTEA8",
+        "blurb": "What makes Metroid games unique and special and stand out from others? Most of the games in the series so far focus on three themes: growth (gaining in power and abilities over time, which makes past challenges trivial); subtlety (environmental story telling and scant details that the player discovers organically), and respect (leaving the player to discover where to go and how to progress through introspection and intuition)",
+        "tags": ["metroid", "growth", "subtlety", "respect", "cross-game analysis"],
+        "type": "video"
     }
 ]
