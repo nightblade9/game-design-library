@@ -543,5 +543,11 @@
         "blurb": "What makes Metroid games unique and special and stand out from others? Most of the games in the series so far focus on three themes: growth (gaining in power and abilities over time, which makes past challenges trivial); subtlety (environmental story telling and scant details that the player discovers organically), and respect (leaving the player to discover where to go and how to progress through introspection and intuition)",
         "tags": ["metroid", "growth", "subtlety", "respect", "cross-game analysis"],
         "type": "video"
+    },
+    {
+        "title": "Turn Time Systems",
+        "url": "https://www.gridsagegames.com/blog/2019/04/turn-time-systems/",
+        "blurb": "A look at Cogmind's turn-based time systems, and a discussion of how time-based systems work in roguelikes. Includes details about simplicity, side-effects, bugs, and implementation details. Talks about the easiest system, which is a priority queue, and allowing interruption actions.",
+        "tags": ["roguelike", "Cogmind", "turn time systems"]
     }
 ]
