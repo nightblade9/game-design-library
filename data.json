@@ -548,6 +548,12 @@
         "title": "Turn Time Systems",
         "url": "https://www.gridsagegames.com/blog/2019/04/turn-time-systems/",
         "blurb": "A look at Cogmind's turn-based time systems, and a discussion of how time-based systems work in roguelikes. Includes details about simplicity, side-effects, bugs, and implementation details. Talks about the easiest system, which is a priority queue, and allowing interruption actions.",
-        "tags": ["roguelike", "Cogmind", "turn time systems"]
+        "tags": ["roguelike", "Cogmind", "time systems"]
+    },
+    {
+        "title": "Time Systems",
+        "url": "https://www.roguebasin.com/index.php/Time_Systems",
+        "blurb": "A brief summary and explanation of roguelike time systems, ranging from simple to complex. Details about player-centric systems, simple turns, queued turns, and energy or tick time systems.",
+        "tags": ["roguelike", "time systems"]
     }
 ]
