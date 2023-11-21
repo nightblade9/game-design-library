@@ -1,5 +1,6 @@
 {
     "siteRootUrl": "https://nightblade9.github.io/game-design-library",
+    "itemsOnHomePage": 25,
     "openGraph": {
         "title": "Game Design Library",
         "image": "images/open-graph.png",
