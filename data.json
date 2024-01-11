@@ -555,5 +555,12 @@
         "url": "https://www.roguebasin.com/index.php/Time_Systems",
         "blurb": "A brief summary and explanation of roguelike time systems, ranging from simple to complex. Details about player-centric systems, simple turns, queued turns, and energy or tick time systems.",
         "tags": ["roguelike", "time systems"]
+    },
+    {
+        "title": "Crafting System: Designs, Issues and Examples",
+        "url": "https://www.youtube.com/watch?v=Nj7EaryBgak",
+        "tags": [ "theory", "crafting", "mechanics", "balance" ],
+        "blurb": "A video about crafting systems in games: where they fit in, and what are the different designs of these mechanics, along with pros and cons.",
+        "type": "video"
     }
 ]
