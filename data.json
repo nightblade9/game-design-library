@@ -1,11 +1,5 @@
 [
     {
-        "title": "Crafting design and it's issues and ",
-        "url": "https://youtu.be/Nj7EaryBgak",
-        "tags": [ "theory", "crafting", "mechanics", "balancing" ],
-        "blurb": "A reflection video about crafting systems in games, where do they fit and the different designs of the mechanic with its wins and losses."
-    },
-    {
         "title": "12 ways to improve turn-based RPG combat systems",
         "url": "https://sinisterdesign.net/12-ways-to-improve-turn-based-rpg-combat-systems/",
         "tags": [ "JRPG", "battle", "tactics" ],
@@ -561,5 +555,12 @@
         "url": "https://www.roguebasin.com/index.php/Time_Systems",
         "blurb": "A brief summary and explanation of roguelike time systems, ranging from simple to complex. Details about player-centric systems, simple turns, queued turns, and energy or tick time systems.",
         "tags": ["roguelike", "time systems"]
+    }
+        {
+        "title": "Crafting System Designs, Issues and Examples",
+        "url": "https://www.youtube.com/watch?v=Nj7EaryBgak",
+        "tags": [ "theory", "crafting", "mechanics", "balancing" ],
+        "blurb": "A reflection video about crafting systems in games, where do they fit and the different designs of the mechanic with its wins and losses."
+        "type": "video"
     }
 ]
