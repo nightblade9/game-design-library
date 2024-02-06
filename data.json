@@ -562,5 +562,12 @@
         "tags": [ "theory", "crafting", "mechanics", "balance" ],
         "blurb": "A video about crafting systems in games: where they fit in, and what are the different designs of these mechanics, along with pros and cons.",
         "type": "video"
+    },
+    {
+        "title": "MDA Intro",
+        "url": "https://www.youtube.com/watch?v=bB3gNkFmIMA",
+        "tags": [ "MDA", "player experience" ],
+        "blurb": "A brief introduction to the MDA framework, which looks at a game's mechanics (actions the player can take), dynamics (interactions between those mechanics), and aesthetics (player feelings that rise from dynamics).",
+        "type": "video"
     }
 ]
