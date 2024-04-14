@@ -492,7 +492,7 @@
     {
         "title": "Building Better Crafting Systems",
         "url": "https://www.youtube.com/watch?v=Nj7EaryBgak",
-        "tags": ["crafting", "cross-game analysis", "oil"],
+        "tags": ["crafting", "cross-game analysis", "oil", "theory", "mechanics", "balance" ],
         "blurb": "An in-depth look at the three components of crafting systems: collection, crafting, and usage - and how to make them shine; mistakes to avoid that make crafting laborious; how to make simple crafting meaningful; and when your game should and include crafting: to give players control over the way they play, and an organic way to interact with the mechanics.",
         "type": "video"
     },
@@ -557,17 +557,22 @@
         "tags": ["roguelike", "time systems"]
     },
     {
-        "title": "Crafting System: Designs, Issues and Examples",
-        "url": "https://www.youtube.com/watch?v=Nj7EaryBgak",
-        "tags": [ "theory", "crafting", "mechanics", "balance" ],
-        "blurb": "A video about crafting systems in games: where they fit in, and what are the different designs of these mechanics, along with pros and cons.",
-        "type": "video"
-    },
-    {
         "title": "MDA Intro",
         "url": "https://www.youtube.com/watch?v=bB3gNkFmIMA",
         "tags": [ "MDA", "player experience" ],
         "blurb": "A brief introduction to the MDA framework, which looks at a game's mechanics (actions the player can take), dynamics (interactions between those mechanics), and aesthetics (player feelings that rise from dynamics).",
         "type": "video"
+    },
+    {
+        "title": "Numbers Getting Bigger: What Are Incremental Games, and Why Are They Fun?",
+        "url": "https://code.tutsplus.com/numbers-getting-bigger-what-are-incremental-games-and-why-are-they-fun--cms-23925a",
+        "tags": [ "idle", "incremental", "cross-game analysis" ],
+        "blurb": "An introduction to idle and incremental games: what core features make up an incremental game, the psychology behind increasing numbers, genre origins, recent incremental games, and a discussion about whether idle games are games at all."
+    },
+    {
+        "title": "Numbers Getting Even Bigger: The Growing Appeal of Incremental Games",
+        "url": "https://code.tutsplus.com/numbers-getting-even-bigger--cms-26854a",
+        "tags": [ "idle", "incremental", "cross-game analysis" ],
+        "blurb": "A look at the growth of incremental games over time; the shift to mobile; innovation and experimentation; and media inattention. Incremental games are exploding in different directions over time, as humans enjoy optimizing arbitrary systems. They represent a minimalism in games."
     }
 ]
