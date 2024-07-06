@@ -551,12 +551,6 @@
         "tags": ["roguelike", "Cogmind", "time systems"]
     },
     {
-        "title": "Time Systems",
-        "url": "https://www.roguebasin.com/index.php/Time_Systems",
-        "blurb": "A brief summary and explanation of roguelike time systems, ranging from simple to complex. Details about player-centric systems, simple turns, queued turns, and energy or tick time systems.",
-        "tags": ["roguelike", "time systems"]
-    },
-    {
         "title": "MDA Intro",
         "url": "https://www.youtube.com/watch?v=bB3gNkFmIMA",
         "tags": [ "MDA", "player experience" ],
